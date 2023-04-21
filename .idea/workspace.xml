@@ -10,8 +10,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64654baf-c363-4f39-8646-0e13aa6f24dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/servlets/LogoutServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3d019c71-f475-4707-bec0-87245f1ab037.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3d019c71-f475-4707-bec0-87245f1ab037/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3d019c71-f475-4707-bec0-87245f1ab037/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3d019c71-f475-4707-bec0-87245f1ab037/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3d019c71-f475-4707-bec0-87245f1ab037/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3d019c71-f475-4707-bec0-87245f1ab037/storage_v2/_src_/schema/sys.zb4BAA.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/servlets/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/servlets/UserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/webapp/navbar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/webapp/navbar.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/webapp/profile.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/webapp/profile.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +31,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -71,6 +80,9 @@
     &quot;DatabaseDriversLRU&quot;: [
       &quot;mariadb&quot;,
       &quot;mysql&quot;
+    ],
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/&quot;: [
+      &quot;MySQL&quot;
     ]
   }
 }</component>
@@ -83,6 +95,7 @@
       <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/resources" />
       <recent name="$PROJECT_DIR$/src/webapp" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -225,7 +238,8 @@
       <workItem from="1681790676695" duration="2226000" />
       <workItem from="1681793054988" duration="1581000" />
       <workItem from="1681837324611" duration="14064000" />
-      <workItem from="1681855388015" duration="6231000" />
+      <workItem from="1681855388015" duration="6542000" />
+      <workItem from="1682050605997" duration="1318000" />
     </task>
     <servers />
   </component>

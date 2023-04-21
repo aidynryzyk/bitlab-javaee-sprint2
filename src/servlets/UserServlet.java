@@ -26,6 +26,7 @@ public class UserServlet extends HttpServlet {
             } else {
                 req.setAttribute("found", true);
                 req.setAttribute("user", user);
+                req.getSession().setAttribute("user", user);
                 req.getRequestDispatcher("profile.jsp").forward(req, resp);
             }
         }

@@ -13,7 +13,7 @@
 <body>
 <jsp:include page="navbar.jsp"></jsp:include>
 <%
-    User user = (User) request.getAttribute("user");
+    User user = (User) request.getSession().getAttribute("user");
 %>
 <figure class="text-center mt-5">
     <blockquote class="blockquote">
